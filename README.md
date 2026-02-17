@@ -38,6 +38,7 @@ Copy `GGPE02.ini` to your Dolphin Triforce game settings folder:
 - **Portable Dolphin:** `<dolphin folder>/user/GameSettings/GGPE02.ini`
 - **Linux installed:** `~/.local/share/dolphin-emu/GameSettings/GGPE02.ini`
 - **Windows installed:** `%USERPROFILE%/Documents/Dolphin Emulator/GameSettings/GGPE02.ini`
+- **Android:** `Android/data/org.dolphinemu.dolphinemu/files/User/GameSettings/GGPE02.ini`
 
 ### 3. Dolphin controller setup
 
