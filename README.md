@@ -1,6 +1,6 @@
 # Mario Kart Arcade GP 2 - Skip Checks Patch
 
-Patches for Mario Kart Arcade GP 2 (USA - GGPE02) to bypass arcade hardware checks and boot directly into gameplay on Dolphin Triforce.
+Patches for Mario Kart Arcade GP 2 (USA - GGPE02) made by Claude AI to bypass arcade hardware checks and boot directly into gameplay on Dolphin Triforce.
 
 ## What This Patch Does
 
